@@ -1,0 +1,45 @@
+Capgemini L1 interview questions
+
+1. Pillars of OOP.
+
+2.Encapsulation and real time example why this is used ?
+
+3.Polymorphism and its types
+
+4.Data Abstraction and examples
+
+5.what is Inheritance and its types ? which Inheritance is not supported in java (Multiple) and why not supported?
+
+5.What are Constructor , can we make a constructor private in class?
+
+6.Major property of String in java?
+
+7.why string is immutable ?
+
+8.what are singleton classes and its examples?
+
+9.what is @scope annotation in spring boot ?
+
+10. In Spring how do we use singleton classes?
+
+11. output of this 
+String str = "ketan";
+str=str+"Agrahari";
+System.out.println(str);	
+what will happen to original object of str which is created earlier where it will go?
+
+12.Which Collection have you used in your project mostly ..
+
+13. Using Stream API  write a logic to return a result group by city i.e. a map which will contain keys as city and value as the number of employees are from that city 
+Public class Employee{
+String id;
+String name;
+String city;
+}
+
+14.sql : joins and type of joins and explain inner and outer joins 
+
+15.Explain your internship project ?
+
+16. Write a Controller class for a Rest API, Requirement : We need to fetch the list of Patients that is treated by a Particular Doctor.
+																								
