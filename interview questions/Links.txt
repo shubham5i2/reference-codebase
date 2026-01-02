@@ -1,5 +1,0 @@
-Striver's A2Z Sheet - Learn DSA from A to Z -> https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z 
-
-Blind 75 -> https://neetcode.io/practice/practice/blind75
-
-System Design -> https://neetcode.io/practice/practice/systemDesign
